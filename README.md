@@ -67,19 +67,19 @@
 
 ![4]([https://github.com/Alm798/Terraform1/blob/main/img/4.png)
 
-![5](https://github.com//Alm798/Terraform1/blob/main/img/5.png)
+![5](https://github.com/Alm798/Terraform1/blob/main/img/5.png)
 
-![6](https://github.com//Alm798/Terraform1/blob/main/img/6.png)
+![6](https://github.com/Alm798/Terraform1/blob/main/img/6.png)
 
-![7](https://github.com//Alm798/Terraform1/blob/main/img//7.png)
+![7](https://github.com/Alm798/Terraform1/blob/main/img//7.png)
 
-![8](https://github.com//Alm798/Terraform1/blob/main/img/8.png)
+![8](https://github.com/Alm798/Terraform1/blob/main/img/8.png)
 
-![9](https://github.com//Alm798/Terraform1/blob/main/img//9.png)
+![9](https://github.com/Alm798/Terraform1/blob/main/img/9.png)
 
-![10](https://github.com//Alm798/Terraform1/blob/main/img/10.png)
+![10](https://github.com/Alm798/Terraform1/blob/main/img/10.png)
 
-![11](https://github.com//Alm798/Terraform1/blob/main/img/11.png)
+![11](https://github.com/Alm798/Terraform1/blob/main/img/11.png)
 
-![12](https://github.com//Alm798/Terraform1/blob/main/img/12.png)
+![12](https://github.com/Alm798/Terraform1/blob/main/img/12.png)
 
