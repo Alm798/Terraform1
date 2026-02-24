@@ -59,7 +59,7 @@
 
 
    
-![1](https://github.com//Alm798/Terraform1/blob/main/img/1.png)
+![1](https://github.com/Alm798/Terraform1/blob/main/img/1.png)
 
 ![2](https://github.com/Alm798/Terraform1/blob/main/img/2.png)
 
